@@ -1,8 +1,4 @@
-# Django-CRM-mastery-app-Project-1-YT
+# Django-CRM-practica-de-YT
 
-Welcome to the Django-CRM-mastery-app!
-
-Please ensure that you create your own virtual environment and install all the necessary packages via the requirements.txt file. 
-
-Enjoy!
+Proyecto realizado como ejercicio de https://youtu.be/pqWyUAT38e0?si=VT0FNo-GX3ngvKKz
 
